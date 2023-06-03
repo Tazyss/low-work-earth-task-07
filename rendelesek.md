@@ -21,7 +21,8 @@
 
 ## Vásárolt mennyiség
 
-1-Alma:
-2-Brokkoli:
-Narancs: 20 kg
-Paradicsom: 25 kg
+
+1-Alma: 20 kg
+2-Brokkoli: 30 kg
+3-Narancs: 20 kg
+4-Paradicsom: 25 kg
